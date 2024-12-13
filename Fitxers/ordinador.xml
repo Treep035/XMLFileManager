@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="21" class="java.beans.XMLDecoder">
+ <object class="Ordinador">
+  <void property="discDur">
+   <int>1000</int>
+  </void>
+  <void property="marca">
+   <string>Asus</string>
+  </void>
+  <void property="memoria">
+   <int>8</int>
+  </void>
+  <void property="model">
+   <string>Vivobook</string>
+  </void>
+  <void property="numSerie">
+   <int>1</int>
+  </void>
+  <void property="processador">
+   <string>Intel Core i7-9700K</string>
+  </void>
+ </object>
+</java>
